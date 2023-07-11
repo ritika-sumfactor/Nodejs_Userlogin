@@ -1,0 +1,23 @@
+.table_header {
+    width: 100%;
+    border: 2px solid green;
+    background-color: coral; 
+    text-align: center;
+  }
+  
+  .table_row1 {
+    background-color: teal; 
+    color: yellow; 
+  }
+  
+  .table_row {
+    border: 1px solid black;
+  }
+  
+  .table_data {
+    border: 1px solid black;
+  }
+  
+  .table_head {
+    border: 1px solid black;
+  }
